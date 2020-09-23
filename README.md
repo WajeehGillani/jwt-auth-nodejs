@@ -7,3 +7,6 @@ for running application on your local server do following steps:
 2. `yarn install` or `npm install`.
 3. Then `yarn start` this will start watch your server with nodemon. 
 4. App will be running on `http://localhost:3000`
+
+# Configuration
+This is Taymoor
